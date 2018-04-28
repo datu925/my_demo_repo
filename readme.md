@@ -1,1 +1,1 @@
-This is my cool Git demo project.
+This is my cool Git demo project. I hope you really like this.
